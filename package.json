@@ -1,0 +1,11 @@
+{
+  "name": "apily-route-manager",
+  "description": "Route manager component",
+  "version": "0.0.1",
+  "keywords": [
+    "route",
+    "bind"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
